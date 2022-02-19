@@ -1,0 +1,6 @@
+---
+layout: post
+title: Soma FM
+categories: [music, radio, streaming]
+---
+Streaming beats since 2000! [https://somafm.com/](https://somafm.com/)
