@@ -22,14 +22,14 @@ title: Field Notes
 email: webmaster@garenkessel.com
 description: >- # this means to ignore newlines until "baseurl:"
  Blog for all things Garen.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://garenkessel.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gkessel
 github_username:  gkessel
 
 # Build settings
 #theme: minima
-remote_theme: dracula/gh-pages
+remote_theme: "dracula/gh-pages"
 plugins:
   - jekyll-feed
 
