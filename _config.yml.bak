@@ -28,7 +28,8 @@ twitter_username: gkessel
 github_username:  gkessel
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: "dracula/gh-pages"
 plugins:
   - jekyll-feed
 
