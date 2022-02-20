@@ -27,6 +27,10 @@ url: "https://garenkessel.com" # the base hostname & protocol for your site, e.g
 twitter_username: gkessel
 github_username:  gkessel
 
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+
 # Build settings
 theme: minima
 plugins:
