@@ -29,7 +29,7 @@ github_username:  gkessel
 
 # Build settings
 #theme: minima
-remote_theme: "dracula/gh-pages"
+remote_theme: dracula/gh-pages
 plugins:
   - jekyll-feed
 
