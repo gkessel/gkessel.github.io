@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Local Administrator Password Solution (LAPS)
-categories: [windows, security]
+category: windows
+tags: windows cybersecurity
 ---
 "Use LAPS to automatically manage local administrator passwords on domain joined computers so that passwords are unique on each managed computer, randomly generated, and securely stored in Active Directory infrastructure. The solution is built on Active Directory infrastructure and does not require other supporting technologies. LAPS uses a Group Policy client-side extension (CSE) that you install on managed computers to perform all management tasks."
 

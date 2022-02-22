@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows troubleshooter for removing programs
-tags: windows
+category: windows
 ---
 Microsoft utility for removal of stubborn apps that won't uninstall via conventional means:
 
