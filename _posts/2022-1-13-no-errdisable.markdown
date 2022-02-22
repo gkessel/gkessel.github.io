@@ -2,6 +2,7 @@
 layout: post
 title: Using non-Cisco GBIC on Catalyst 9200
 tags: cisco networking
+category: networking
 ---
 
 The "service unsupported-transceiver" command is broken on Cisco Catalyst series running IOS version 16.9.X [1].
