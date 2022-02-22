@@ -2,6 +2,7 @@
 layout: post
 title: Choose home.arpa
 tags: networking homelab
+category: networking
 ---
 
 For home networks avoid using the .local domain, follow IETF  best practice and choose home.arpa [1]
