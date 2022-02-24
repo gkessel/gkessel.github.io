@@ -29,4 +29,4 @@ install the apache2 package
 
 `sudo apt-get install apache2 -y`
 
-Coming soon: updating the default Apache configuration.
+Coming soon: hardening the system and updating the default Apache configuration.
