@@ -1,6 +1,6 @@
 ---
-title: Debian VPS setup
 layout: post
+title: Debian VPS setup
 category: linux
 ---
 
