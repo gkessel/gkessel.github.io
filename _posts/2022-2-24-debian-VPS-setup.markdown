@@ -5,28 +5,28 @@ category: linux
 ---
 
 Set a strong root password
-'passwd'
+`passwd`
 
 Run updates
-'apt-get update && apt-get upgrade'
+`apt-get update && apt-get upgrade`
 
 Install your favorite editor, I like nano.
-'apt-get install sudo nano'
+`apt-get install sudo nano`
 
 Make your preferred editor the default
-'sudo update-alternatives --config editor'
+`sudo update-alternatives --config editor`
 
 Create a non-root user for general system operations
-'adduser sysop'
+`adduser sysop`
 
 Add the new user to the sudoer group
-'adduser sysop sudo'
+`adduser sysop sudo`
 
 Switch users
-'su sysop'
+`su sysop`
 
 install the apache2 package
 
-'sudo apt-get install apache2 -y'
+`sudo apt-get install apache2 -y`
 
 Coming soon: updating the default Apache configuration.
