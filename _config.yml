@@ -36,9 +36,9 @@ plugins:
 remote_theme: jekyll/minima
 minima:
   skin: dark
-  social_links:
-    twitter: gkessel
-    github: gkessel
+#  social_links:
+#    twitter: gkessel
+#    github: gkessel
 
 show_excerpts: true
 
