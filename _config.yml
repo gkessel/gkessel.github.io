@@ -41,6 +41,7 @@ minima:
 #    github: gkessel
 
 show_excerpts: true
+paginate: 5
 
 #jekyll-archives:
 #  enabled: all
