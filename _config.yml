@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-archives
+  - jekyll-paginate
 remote_theme: jekyll/minima
 minima:
   skin: dark
