@@ -1,0 +1,11 @@
+---
+layout: post
+title: Fix Videos player in Ubuntu 20.04
+category: linux
+tags: [linux, ubuntu]
+---
+Ubuntu 20.04 Videos (Totem) player doesn't want to open any vidoes. The following seems to fix the issue.
+
+sudo apt remove gstreamer1.0-vaapi
+
+This is a known issue: https://gitlab.gnome.org/GNOME/totem/-/issues/509
